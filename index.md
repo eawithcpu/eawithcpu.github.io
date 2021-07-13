@@ -1,9 +1,30 @@
 ---
-title: /
-layout: home
+title: /Homepage
+layout: page
 permalink: /
 ---
 
-# Lorem ipsum
+Hi, this is Mr.MasterMind speaking. There are other six people sitting by myside:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Ancient One
+2. Elliot Alderson
+3. Chris
+4. Hannibal Lecter
+5. Gregory House
+6. Steve Jobs
+
+<br />
+Most of them are fictional from different sources, only Steve is come from real life. However, all of them are the most appreciated people for me. Insipring me so much, which representing:
+
+1. Wisdom
+2. Computing power
+3. Myself
+4. Psychology
+5. Medical power
+6. Representing yourself.
+
+<br />
+Also, I want to power myself in these domains. The final goal is for BEING IMMORTAL and MOVING TO NORWAY.
+I install them in my memory palace, which is referenced on the apartment when I was a child.
+
+This github account and twitter is recording what happend each day. If there are something big happended, I will record this by starting a repository, otherwise I just jogging down the daily stuff on twitter.
